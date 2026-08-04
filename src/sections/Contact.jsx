@@ -33,8 +33,8 @@ const contactInfo = [
 
 export const Contact = () => {
   const [formData, setFormData] = useState({
-    name: "Dut David",
-    email: "DutDavid20nov@gmail.com",
+    name: "your username",
+    email: "yourusername@gmail.com",
     message: "",
   });
   const [isLoading, setIsLoading] = useState(false);
