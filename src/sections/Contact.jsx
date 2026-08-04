@@ -15,7 +15,7 @@ const contactInfo = [
     icon: Mail,
     label: "Email",
     value: "DutDavid20nov@gmail.com",
-    href: "DutDavid20nov@gmail.com",
+    href: "mailto:DutDavid20nov@gmail.com",
   },
   {
     icon: Phone,
@@ -33,9 +33,9 @@ const contactInfo = [
 
 export const Contact = () => {
   const [formData, setFormData] = useState({
-    name: "your username",
+    name: " ",
     email: "yourusername@gmail.com",
-    message: "",
+    message: " ",
   });
   const [isLoading, setIsLoading] = useState(false);
   const [submitStatus, setSubmitStatus] = useState({

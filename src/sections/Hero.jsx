@@ -85,7 +85,7 @@ export const Hero = () => {
 
             {/* CTAs */}
             <div className="flex flex-wrap gap-4 animate-fade-in animation-delay-300">
-              <a href="#contact">
+              <a href="mailto:DutDavid20nov@gmail.comt">
                 <Button size="lg">
                   Contact Me <ArrowRight className="w-5 h-5" />
                 </Button>
