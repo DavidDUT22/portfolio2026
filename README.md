@@ -1,2 +1,5 @@
-# portfolio2026
-just keep learn something new during vocation.
+<<<<<<< HEAD
+(your local README content)
+=======
+(GitHub's README content)
+>>>>>>> 9bd7729...
