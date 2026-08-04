@@ -13,7 +13,7 @@ const projects = [
     title: "Networking Project",
     description:
       "An upcoming hands-on networking project focused on routing, switching, and network security concepts. Coming soon.",
-    image: `${import.meta.env.BASE_URL}project1.png`,
+    image: `${import.meta.env.BASE_URL}project2.png`,
     tags: ["Networking", "Routing & Switching", "Coming Soon"],
     github: "https://github.com/DavidDUT22",
   },
