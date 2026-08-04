@@ -14,27 +14,27 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "pedro@example.com",
-    href: "mailto:pedro@example.com",
+    value: "DutDavid20nov@gmail.com",
+    href: "DutDavid20nov@gmail.com",
   },
   {
     icon: Phone,
     label: "Phone",
-    value: "+1 (555) 123-4567",
-    href: "tel:+15551234567",
+    value: "+855 87357520",
+    href: "tel:+855 87357520",
   },
   {
     icon: MapPin,
     label: "Location",
-    value: "San Francisco, CA",
+    value: "Phnom Penh, Cambodia",
     href: "#",
   },
 ];
 
 export const Contact = () => {
   const [formData, setFormData] = useState({
-    name: "",
-    email: "",
+    name: "Dut David",
+    email: "DutDavid20nov@gmail.com",
     message: "",
   });
   const [isLoading, setIsLoading] = useState(false);
@@ -144,7 +144,7 @@ export const Contact = () => {
                 </label>
                 <input
                   required
-                  placeholder="your@email.com"
+                  placeholder="DutDavid20nov@gmail.com"
                   value={formData.email}
                   onChange={(e) =>
                     setFormData({ ...formData, email: e.target.value })

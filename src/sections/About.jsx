@@ -3,20 +3,20 @@ import { Code2, Lightbulb, Rocket, Users } from "lucide-react";
 const highlights = [
   {
     icon: Code2,
-    title: "Clean Code",
+    title: "Network Design",
     description:
-      "Writing maintainable, scalable code that stands the test of time.",
+      "Planning and building efficient, scalable network topologies using routing and switching principles.",
   },
   {
     icon: Rocket,
-    title: "Performance",
+    title: "Network Security",
     description:
-      "Optimizing for speed and delivering lightning-fast user experiences.",
+      "Applying security best practices to protect systems and data from vulnerabilities and threats.",
   },
   {
     icon: Users,
-    title: "Collaboration",
-    description: "Working closely with teams to bring ideas to life.",
+    title: "Troubleshooting",
+    description: "Diagnosing and resolving connectivity, routing, and configuration issues with a systematic approach.",
   },
   {
     icon: Lightbulb,
@@ -40,7 +40,7 @@ export const About = () => {
             </div>
 
             <h2 className="text-4xl md:text-5xl font-bold leading-tight animate-fade-in animation-delay-100 text-secondary-foreground">
-              Building the future,
+              Designing tomorrow's networks,
               <span className="font-serif italic font-normal text-white">
                 {" "}
                 one component at a time.
@@ -49,30 +49,21 @@ export const About = () => {
 
             <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200">
               <p>
-                I'm a passionate software engineer with over 5 years of
-                experience crafting digital products that make a difference. My
-                journey started with a curiosity for how things work on the web,
-                and it has evolved into a deep expertise in modern frontend
-                technologies.
+                I am passionate about technology and enjoy learning how computer networks, cybersecurity, and software development work together to solve real-world problems.
               </p>
               <p>
-                I specialize in React, Next.js, and TypeScript, building
-                everything from sleek landing pages to complex enterprise
-                applications. My approach combines technical excellence with a
-                keen eye for design and user experience.
+                I specialize in Networking,  My current focus is strengthening my knowledge of networking through CCNA concepts while improving my programming skills in Python, C,C++ and building a real world project.
               </p>
               <p>
-                When I'm not coding, you'll find me exploring new technologies,
-                contributing to open-source projects, or sharing knowledge with
-                the developer community.
+                I believe the best way to grow as a developer is through continuous learning and hands-on experience. Every project I build helps me improve my problem-solving skills, write cleaner code, and deepen my understanding of modern technologies.
               </p>
             </div>
 
             <div className="glass rounded-2xl p-6 glow-border animate-fade-in animation-delay-300">
               <p className="text-lg font-medium italic text-foreground">
-                "My mission is to create digital experiences that are not just
-                functional, but truly delightful — products that users love to
-                use and developers love to maintain."
+               🚀 My Goals
+
+Network Engineering • CCNA • Cybersecurity • Network Automation • Python • C/C++ • Real-World Projects • Continuous Learning
               </p>
             </div>
           </div>

@@ -1,38 +1,29 @@
 const experiences = [
   {
-    period: "2022 — Present",
-    role: "Senior Frontend Engineer",
-    company: "Tech Innovators Inc.",
+    period: "2025 — Present",
+    role: "Bachelor of Engineering in Network & Telecommunication",
+    company: "Cambodia Academy of Digital Technology (CADT)",
     description:
-      "Leading frontend architecture for a suite of fintech products. Implemented micro-frontend architecture, reduced bundle size by 40%, and mentored a team of 5 developers.",
-    technologies: ["React", "TypeScript", "Next.js", "GraphQL"],
+      "I'm a second-year student studying computer networking. My courses include routing and switching, network security, programming, and operating systems, and I apply what I learn through hands-on networking and software development projects",
+    technologies: ["CCNA", "Packet Tracer", "Basic Wireshark", "TCP/IP", "Basic Linux", "Python", "C", "C++"],
     current: true,
   },
   {
-    period: "2020 — 2022",
-    role: "Frontend Engineer",
-    company: "Digital Solutions Co.",
+    period: "2019 — 2025",
+    role: "Graduate High school ( Bacll )",
+    company: "American Bridge International School",
     description:
-      "Built and maintained multiple React applications for enterprise clients. Introduced automated testing practices that improved code coverage to 85%.",
-    technologies: ["React", "Redux", "Jest", "Cypress"],
+      "I graduated from high school after successfully passing the National Examination, achieving a Grade B with a score of 97.255.",
+    technologies: ["", "", "", ""],
     current: false,
   },
   {
-    period: "2019 — 2020",
-    role: "Junior Developer",
-    company: "StartUp Labs",
+    period: "2013 - 2025",
+    role: "English program",
+    company: "Transform Cambodia",
     description:
-      "Contributed to the development of a SaaS platform from MVP to production. Collaborated with designers to implement pixel-perfect UI components.",
-    technologies: ["React", "Node.js", "MongoDB", "AWS"],
-    current: false,
-  },
-  {
-    period: "2018 — 2019",
-    role: "Freelance Developer",
-    company: "Self-Employed",
-    description:
-      "Delivered custom web solutions for small businesses and startups. Built 15+ websites and applications, handling everything from design to deployment.",
-    technologies: ["JavaScript", "PHP", "WordPress", "MySQL"],
+      "Completed an English communication program to strengthen speaking, listening, reading, and writing skills.",
+    technologies: ["", "", "", ""],
     current: false,
   },
 ];
