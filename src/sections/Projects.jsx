@@ -4,7 +4,7 @@ const projects = [
     title: "Scratch Project",
     description:
       "An interactive project built with Scratch, exploring programming logic, event-driven design, and creative problem solving.",
-    image: "/projects/project1.png",
+    image: `${import.meta.env.BASE_URL}projects/project1.png`,
     tags: ["Scratch", "Programming Logic"],
     link: "https://scratch.mit.edu/projects/1283595270/",
     github: "#",
@@ -13,7 +13,7 @@ const projects = [
     title: "Networking Project",
     description:
       "An upcoming hands-on networking project focused on routing, switching, and network security concepts. Coming soon.",
-    image: "/projects/project2.png",
+    image: `${import.meta.env.BASE_URL}projects/project2.png`,
     tags: ["Networking", "Routing & Switching", "Coming Soon"],
     link: "#",
     github: "#",
