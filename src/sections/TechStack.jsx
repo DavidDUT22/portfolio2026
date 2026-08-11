@@ -9,7 +9,7 @@ import {
   SiGithub,
 } from "react-icons/si";
 import { Network, GitBranch, Router, Palette } from "lucide-react";
-import { LogoMark } from "./LogoMark";
+import { LogoMark } from "./logo924";
 
 const leftSkills = [
   { name: "React", icon: SiReact, color: "#61DAFB" },
