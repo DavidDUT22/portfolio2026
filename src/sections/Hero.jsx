@@ -69,14 +69,10 @@ export const Hero = () => {
 
             {/* Headline */}
             <div className="space-y-4">
-              <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight animate-fade-in animation-delay-100">
-                Building Future <span className="text-primary glow-text">through</span>
+              <h1 className="text-7xl md:text-8xl lg:text-9xl font-extrabold leading-[0.95] tracking-tight uppercase animate-fade-in animation-delay-100">
+                David
                 <br />
-                Networking and
-                <br />
-                <span className="font-serif italic font-normal text-white">
-                    innovation.
-                </span>
+                <span className="text-primary glow-text">Dut</span>
               </h1>
               <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
                 Hi, I'm Dut David — a Network & Telecommunication student with a passion for networking, cybersecurity, and software development. I enjoy building real-world projects, exploring new technologies, and creating solutions that solve practical problems.
