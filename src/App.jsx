@@ -13,7 +13,6 @@ function App() {
       <Navbar />
       <main>
         <Hero />
-        <TechStack />
         <About />
         <Projects />
         <Achievements />
